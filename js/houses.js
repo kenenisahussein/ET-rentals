@@ -11,7 +11,7 @@ window.houses = [
     ownerPhone: "+1 212-555-1234",
     ownerEmail: "BiniamGetachew@email.com",
     availability: "Available from March 1",
-    image: "/images/houseImages/home24.jpg",
+    image: "images/houseImages/home24.jpg",
   },
   {
     id: 2,
@@ -204,3 +204,4 @@ window.houses = [
   },
   // Add more houses below – just copy the structure and increase the id
 ];
+
