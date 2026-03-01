@@ -24,7 +24,7 @@ window.houses = [
     ownerPhone: "+1 310-555-5678",
     ownerEmail: "SirajEdris@email.com",
     availability: "Available immediately",
-    image: "/images/houseImages/home23.jpg",
+    image: "images/houseImages/home23.jpg",
   },
   {
     id: 3,
@@ -37,7 +37,7 @@ window.houses = [
     ownerPhone: "+1 305-555-9012",
     ownerEmail: "mike@email.com",
     availability: "Available from April 15",
-    image: "/images/houseImages/home3.jpg",
+    image: "images/houseImages/home3.jpg",
   },
   {
     id: 4,
@@ -49,7 +49,7 @@ window.houses = [
     ownerPhone: "+1 305-555-9012",
     ownerEmail: "munirs@email.com",
     availability: "Available from April 15",
-    image: "/images/houseImages/home5.jpg",
+    image: "images/houseImages/home5.jpg",
   },
   {
     id: 5,
@@ -61,7 +61,7 @@ window.houses = [
     ownerPhone: "+1 305-555-9012",
     ownerEmail: "marta12@email.com",
     availability: "Available from April 15",
-    image: "/images/houseImages/home6.jpg",
+    image: "images/houseImages/home6.jpg",
   },
   {
     id: 6,
@@ -73,7 +73,7 @@ window.houses = [
     ownerPhone: "+1 305-555-9012",
     ownerEmail: "tedi@email.com",
     availability: "Available from April 15",
-    image: "/images/houseImages/home7.jpg",
+    image: "images/houseImages/home7.jpg",
   },
   {
     id: 7,
@@ -86,7 +86,7 @@ window.houses = [
     ownerPhone: "+1 212-555-1234",
     ownerEmail: "jAbebe@email.com",
     availability: "Available from March 1",
-    image: "/images/houseImages/home8.jpg",
+    image: "images/houseImages/home8.jpg",
   },
   {
     id: 8,
@@ -99,7 +99,7 @@ window.houses = [
     ownerPhone: "+1 310-555-5678",
     ownerEmail: "tig!j@email.com",
     availability: "Available immediately",
-    image: "/images/houseImages/home9.jpg",
+    image: "images/houseImages/home9.jpg",
   },
   {
     id: 9,
@@ -111,7 +111,7 @@ window.houses = [
     ownerPhone: "+1 305-555-9012",
     ownerEmail: "Bulcha@email.com",
     availability: "Available from April 15",
-    image: "/images/houseImages/home10.jpg",
+    image: "images/houseImages/home10.jpg",
   },
   {
     id: 10,
@@ -124,7 +124,7 @@ window.houses = [
     ownerPhone: "+1 305-555-9012",
     ownerEmail: "miko.man@email.com",
     availability: "Available from April 15",
-    image: "/images/houseImages/home11.jpg",
+    image: "images/houseImages/home11.jpg",
   },
   {
     id: 11,
@@ -137,7 +137,7 @@ window.houses = [
     ownerPhone: "+1 305-555-9012",
     ownerEmail: "Abdu@email.com",
     availability: "Available from April 15",
-    image: "/images/houseImages/home12.jpg",
+    image: "images/houseImages/home12.jpg",
   },
   {
     id: 12,
@@ -149,7 +149,7 @@ window.houses = [
     ownerPhone: "+1 305-555-9012",
     ownerEmail: "Zeki@email.com",
     availability: "Available from April 15",
-    image: "/images/houseImages/home13.jpg",
+    image: "images/houseImages/home13.jpg",
   },
   {
     id: 13,
@@ -162,7 +162,7 @@ window.houses = [
     ownerPhone: "+1 305-555-9012",
     ownerEmail: "Danidavis@email.com",
     availability: "Available from April 15",
-    image: "/images/houseImages/home14.jpg",
+    image: "images/houseImages/home14.jpg",
   },
   {
     id: 14,
@@ -175,7 +175,7 @@ window.houses = [
     ownerPhone: "+1 305-555-9012",
     ownerEmail: "mike.davis@email.com",
     availability: "Available from April 15",
-    image: "/images/houseImages/home16.jpg",
+    image: "images/houseImages/home16.jpg",
   },
   {
     id: 15,
@@ -188,7 +188,7 @@ window.houses = [
     ownerPhone: "+1 305-555-9012",
     ownerEmail: "mike.davis@email.com",
     availability: "Available from April 15",
-    image: "/images/houseImages/home17.jpg",
+    image: "images/houseImages/home17.jpg",
   },
   {
     id: 16,
@@ -200,8 +200,9 @@ window.houses = [
     ownerPhone: "+1 305-555-9012",
     ownerEmail: "jemal@email.com",
     availability: "Available from April 15",
-    image: "/images/houseImages/home18.jpg",
+    image: "images/houseImages/home18.jpg",
   },
   // Add more houses below – just copy the structure and increase the id
 ];
+
 
