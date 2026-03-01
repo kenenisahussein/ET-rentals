@@ -1,5 +1,5 @@
 body {
-    background-image: url(/images/houseImages/home19.jpg);
+    background-image: url(../images/houseImages/home19.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -77,4 +77,5 @@ body {
 
 .feature p {
     color: #7f8c8d;
+
 }
